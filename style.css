@@ -1,0 +1,16 @@
+.div {
+  height: 100px;
+  width: 100px;
+  background: red;
+}
+
+.my-class {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%, -50%);
+  text-align: center;
+}
+
+.my-class2 {
+  background: green;
+}
